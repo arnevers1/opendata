@@ -1,2 +1,2 @@
-Open dada is cool
+Open data is cool
 =================
